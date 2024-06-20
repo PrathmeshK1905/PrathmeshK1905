@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/prathme12360927" target="blank"><img src="https://img.shields.io/twitter/follow/prathme12360927?logo=twitter&style=for-the-badge" alt="prathme12360927" /></a> </p>
 
-- 🌱 I’m currently learning **Cloud Computing and Database Management.**
+- 🌱 I’m currently exploring **Computer Science Technologies**
 
 - 📫 How to reach me **kulkarniprathmesh2022@gmail.com**
 
