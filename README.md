@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prathmesh Kulkarni</h1>
 <h3 align="center">A curios programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmeshk1905&label=Profile%20views&color=0e75b6&style=flat" alt="prathmeshk1905" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathmeshk1905&label=Profile%20views+500&color=0e75b6&style=flat" alt="prathmeshk1905" /> </p>
 
 <p align="left"> <a href="https://twitter.com/prathme12360927" target="blank"><img src="https://img.shields.io/twitter/follow/prathme12360927?logo=twitter&style=for-the-badge" alt="prathme12360927" /></a> </p>
 
-- 🌱 I’m currently exploring **Computer Science Technologies**
+- 🌱 I’m currently exploring **Computer Vision and Machine Learning**
 
 - 📫 How to reach me **kulkarniprathmesh2022@gmail.com**
 
