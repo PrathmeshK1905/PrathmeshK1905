@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kulkarniprathmesh2022@gmail.com**
 
-- ⚡ Hello **I love to collaborate**
+- ⚡ Hello **I'd love to collaborate**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
